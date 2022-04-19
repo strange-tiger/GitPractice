@@ -1,2 +1,3 @@
 Hello, Git.
 나는 게임을 하지 않아.
+My name is Jinho.
