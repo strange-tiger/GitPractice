@@ -7,6 +7,7 @@ colon refspec으로 source:destination
 
 git bash
 
+<<<<<<< HEAD
 #2 이외의 명령어
 - git config : 설정
 - git add : 스테이징 영역 추가
@@ -30,3 +31,7 @@ git bash
     > - 편집하고 싶을 땐 i키를 누름
     > - ESC키를 누르면 명령어 모드
     > - 파일을 저장하고 나가려면 명령어 모드에서 :wq 타이핑
+=======
+a1
+My name is Jinho.
+>>>>>>> 3b7190f (add this local repositary on github)
