@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 Hello, Git.
 나는 게임을 하지 않아.
 이거 맞나?
+=======
+이번 주 회식은 족발
+>>>>>>> 5e705c8 (Fitst commit of metaverse)
 
 Hello, My friend!
 My name is Jinho.
