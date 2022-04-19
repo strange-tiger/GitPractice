@@ -1,13 +1,32 @@
-Hello, Git.
-나는 게임을 하지 않아.
-이거 맞나?
-이번 주 회식은 족발
+#1 원격 명령어
+- git push / pull/ fetch <remote> <place>
 
-Hello, My friend!
-My name is Jinho.
+<place> : 브랜치 이름
 
-Hello, World!
+colon refspec으로 source:destination
 
+git bash
 
-a1
-My name is Jinho.
+#2 이외의 명령어
+- git config : 설정
+- git add : 스테이징 영역 추가
+- git restore : 변경사항 폐기
+- git log : 그래프 (로그)를 보여줌
+- git status : 레포지토리 상태를 확인
+- git init : 레포지토리 생성
+
+#3 Git의 동작
+- HEAD : 어떤 브랜치를 가리키는지에 대한 내용이 담겨 있음
+- ref/heads 에 브랜치에 대한 파일이 있다.
+    > - 해당 파일의 이름은 브랜치의 이름
+    > - 그 파일에는 커밋 ID가 있었다. (해시값)
+- ref/tags 에 태그에 대한 파일이 있다.
+    > - 해당 파일의 이름은 태그의 이름
+    > - 그 파일에는 해시값이 있었다.
+- objects에는 변경 사항이 저장되어 있음. => 각 커밋의 내용.
+
+#4 vi 사용법
+- 명령어 모드랑 편집 모드랑
+    > - 편집하고 싶을 땐 i키를 누름
+    > - ESC키를 누르면 명령어 모드
+    > - 파일을 저장하고 나가려면 명령어 모드에서 :wq 타이핑
