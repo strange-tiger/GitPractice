@@ -1,11 +1,8 @@
 Hello, Git.
 나는 게임을 하지 않아.
 이거 맞나?
-<<<<<<< HEAD
 
 Hello, My friend!
-=======
 My name is Jinho.
 
 Hello, World!
->>>>>>> name
